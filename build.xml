@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
- <project name="AntTestDemo" default="run" basedir=".">
+ <project name="JavaWorld" default="run" basedir=".">
  <property name="src" value="src"/>
  <property name="dest" value="classes"/>
  <property name="hellojava_jar" value="hellojava.jar"/>
